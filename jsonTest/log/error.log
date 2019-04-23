@@ -1,0 +1,10 @@
+2019-04-16 14:57:43 ERROR Test.main(Test.java:25) - {
+  "userName" : "张三",
+  "userAge" : 12,
+  "userSex" : "男"
+}
+2019-04-16 14:58:33 ERROR Test.main(Test.java:25) - aaaa{
+  "userName" : "张三",
+  "userAge" : 12,
+  "userSex" : "男"
+}

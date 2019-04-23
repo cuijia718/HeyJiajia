@@ -1,0 +1,32 @@
+2019-04-18 11:21:42  INFO Test.main(Test.java:30) - {
+  "name": "李四",
+  "age": 22,
+  "sex": "男"
+}
+2019-04-18 11:21:42  INFO Test.main(Test.java:34) - 格式化后json对象日志打印时间为：140毫秒
+2019-04-18 11:21:42  INFO Test.main(Test.java:38) - {"name":"李四","age":22,"sex":"男"}
+2019-04-18 11:21:42  INFO Test.main(Test.java:41) - 没格式化json对象日志打印时间为：2毫秒
+2019-04-18 16:27:20  INFO Test.main(Test.java:30) - {
+	"name":"李四",
+	"age":22,
+	"sex":"男"
+}
+2019-04-18 16:27:20  INFO Test.main(Test.java:36) - 格式化后json对象日志打印时间为：26毫秒
+2019-04-18 16:27:20  INFO Test.main(Test.java:40) - {"name":"李四","age":22,"sex":"男"}
+2019-04-18 16:27:20  INFO Test.main(Test.java:43) - 没格式化json对象日志打印时间为：1毫秒
+2019-04-18 16:30:08  INFO Test.main(Test.java:30) - {
+	"name":"李四",
+	"age":22,
+	"sex":"男"
+}
+2019-04-18 16:30:08  INFO Test.main(Test.java:36) - 格式化后json对象日志打印时间为：12毫秒
+2019-04-18 16:30:08  INFO Test.main(Test.java:40) - {"name":"李四","age":22,"sex":"男"}
+2019-04-18 16:30:08  INFO Test.main(Test.java:43) - 没格式化json对象日志打印时间为：0毫秒
+2019-04-18 16:30:32  INFO Test.main(Test.java:30) - {
+	"name":"张三",
+	"age":28,
+	"sex":"女"
+}
+2019-04-18 16:30:32  INFO Test.main(Test.java:36) - 格式化后json对象日志打印时间为：12毫秒
+2019-04-18 16:30:32  INFO Test.main(Test.java:40) - {"name":"张三","age":28,"sex":"女"}
+2019-04-18 16:30:32  INFO Test.main(Test.java:43) - 没格式化json对象日志打印时间为：1毫秒

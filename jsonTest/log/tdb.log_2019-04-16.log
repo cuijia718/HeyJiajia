@@ -1,0 +1,91 @@
+2019-04-16 14:49:31  INFO Test.main(Test.java:15) - hello word
+2019-04-16 14:52:57  INFO Test.main(Test.java:15) - hello word
+2019-04-16 14:54:36  INFO Test.main(Test.java:15) - hello word
+2019-04-16 14:55:03  INFO Test.main(Test.java:15) - hello word
+2019-04-16 14:55:41  INFO Test.main(Test.java:15) - hello word
+2019-04-16 14:57:42  INFO Test.main(Test.java:15) - hello word
+2019-04-16 14:57:43 ERROR Test.main(Test.java:25) - {
+  "userName" : "张三",
+  "userAge" : 12,
+  "userSex" : "男"
+}
+2019-04-16 14:58:17  INFO Test.main(Test.java:15) - hello word
+2019-04-16 14:58:32  INFO Test.main(Test.java:15) - hello word
+2019-04-16 14:58:33 ERROR Test.main(Test.java:25) - aaaa{
+  "userName" : "张三",
+  "userAge" : 12,
+  "userSex" : "男"
+}
+2019-04-16 15:01:55  INFO Test.main(Test.java:27) - {
+  "userName" : "张三",
+  "userAge" : 12,
+  "userSex" : "男"
+}
+2019-04-16 15:03:28  INFO Test.main(Test.java:27) - {
+  "userName" : "张三",
+  "userAge" : 12,
+  "userSex" : "男"
+}
+2019-04-16 15:05:19  INFO Test.main(Test.java:27) - {
+  "userName" : "张三",
+  "userAge" : 12,
+  "userSex" : "男"
+}
+2019-04-16 15:06:43  INFO Test.main(Test.java:27) - {
+  "userName" : "张三",
+  "userAge" : 12,
+  "userSex" : "男"
+}
+2019-04-16 15:19:09  INFO Test2.main(Test2.java:25) - {"userAge":33,"userName":"李四","userSex":"女"}
+2019-04-16 15:19:47  INFO Test.main(Test.java:31) - {
+  "userName" : "李四",
+  "userAge" : 33,
+  "userSex" : "女"
+}
+2019-04-16 15:39:29  INFO Test.main(Test.java:61) - [ {
+  "userName" : "李四",
+  "userAge" : 33,
+  "userSex" : "女"
+}, {
+  "userName" : "张三",
+  "userAge" : 55,
+  "userSex" : "男"
+} ]
+2019-04-16 15:46:45  INFO Test2.main(Test2.java:65) - [[{"userAge":33,"userName":"李四","userSex":"女"},{"userAge":55,"userName":"张三","userSex":"男"}]]
+2019-04-16 15:47:45  INFO Test.main(Test.java:62) - [ {
+  "userName" : "王五",
+  "userAge" : 55,
+  "userSex" : "男"
+}, {
+  "userName" : "赵六",
+  "userAge" : 66,
+  "userSex" : "女"
+} ]
+2019-04-16 15:48:14  INFO Test2.main(Test2.java:65) - [[{"userAge":55,"userName":"王五","userSex":"男"},{"userAge":66,"userName":"赵六","userSex":"女"}]]
+2019-04-16 15:48:40  INFO Test.main(Test.java:62) - [ {
+  "userName" : "王五",
+  "userAge" : 55,
+  "userSex" : "男"
+}, {
+  "userName" : "赵六",
+  "userAge" : 66,
+  "userSex" : "女"
+} ]
+2019-04-16 16:06:25  INFO Test.main(Test.java:62) - [ {
+  "userName" : "王五",
+  "userAge" : 55,
+  "userSex" : "男"
+}, {
+  "userName" : "赵六",
+  "userAge" : 66,
+  "userSex" : "女"
+} ]
+2019-04-16 16:06:25  WARN Test.main(Test.java:63) - [ {
+  "userName" : "王五",
+  "userAge" : 55,
+  "userSex" : "男"
+}, {
+  "userName" : "赵六",
+  "userAge" : 66,
+  "userSex" : "女"
+} ]111
